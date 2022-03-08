@@ -6,7 +6,7 @@
 
 class Produto:
     """
-	Classe Produto: deve representar os elementos básicos de um produto.
+	Classe Produto: deve representar os elementos básicos de um produto..
 	"""
 
     def __init__(self, nome, preco):
