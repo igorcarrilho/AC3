@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="713d9825-62de-4736-84d7-47e018e2982e" name="Changes" comment="" />
+    <list default="true" id="713d9825-62de-4736-84d7-47e018e2982e" name="Changes" comment="Atividade 3 de POO finalizada">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loja.py" beforeDir="false" afterPath="$PROJECT_DIR$/loja.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,6 +84,21 @@
       <option name="presentableId" value="Default" />
       <updated>1646742259044</updated>
     </task>
+    <task id="LOCAL-00001" summary="Atividade 3 de POO finalizada">
+      <created>1646744457749</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1646744457749</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Atividade 3 de POO finalizada">
+      <created>1646744713137</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1646744713137</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,5 +111,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Atividade 3 de POO finalizada" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atividade 3 de POO finalizada" />
   </component>
 </project>
